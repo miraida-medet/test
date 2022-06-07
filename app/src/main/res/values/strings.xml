@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">nonFM</string>
+    <string name="app_name0">Справочник металлурга</string>
+    <string name="app_name1">Тяжёлые</string>
+    <string name="app_name2">Лёгкие</string>
+    <string name="app_name3">Благородные</string>
+    <string name="app_name4">Малые</string>
+    <string name="app_name5">Тугоплавкие</string>
+    <string name="app_name6">Редкоземельные</string>
+    <string name="app_name7">Рассеянные</string>
+    <string name="app_name8">Радиоактивные</string>
+
+</resources>

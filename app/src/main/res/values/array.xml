@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="teg">
+        <item>Медь </item>
+        <item>Свинец </item>
+        <item>цинк </item>
+        <item>Олово </item>
+        <item>Никель </item>
+    </string-array>
+    <string-array name="teg_content">
+        <item>Медь в чистом виде это мягкий плотный металл розового цвета с золотистым блеском.Высокий показатель электропроводности сделал ее незаменимым материалом в электротехнике.
+            Самое распространенное применение меди в виде проволоки в электрических проводах и преобразователях электрического тока.Медь — золотисто-розовый пластичный металл, на воздухе быстро покрывается оксидной плёнкой, которая придаёт ей характерный интенсивный желтовато-красный оттенок. Тонкие плёнки меди на просвет имеют зеленовато-голубой цвет.
+        Не изменяется на воздухе в отсутствие влаги и диоксида углерода. Является слабым восстановителем, не реагирует с водой, разбавленной соляной кислотой. Переводится в раствор кислотами-неокислителями или гидратом аммиака в присутствии кислорода, цианидом калия.
+            Окисляется концентрированными серной и азотной кислотами, «царской водкой», кислородом, галогенами, халькогенами, оксидами неметаллов. Реагирует при нагревании с галогеноводородами.</item>
+        <item>Свинец – очень востребованный цветной металл, который охотно принимают в любом виде скупщики металлолома.
+Единой цены за килограмм нет, так как в чистом виде свинец почти не встречается.
+Обычно это сплав, в котором массовая доля свинца значительно больше примесей и зависит от предназначения металла.
+Цена свинца за 1 кг напрямую зависит от спроса на мировом рынке, который с каждым годом становится только больше.
+Свинец относится к тяжелым цветным металлам, его изотопы – результат распада урана. В природе этот элемент присутствует в более чем в 80 минеральных рудах, некоторые из которых являются основным сырьем для его производства.
+В этом свинец подобен цинку и любому другому цветному металлу.</item>
+        <item>Цинк — хрупкий голубовато-белый металл. В природе без примесей не встречается. В 1738 году Уильям Чемпион добыл чистые пары цинка с помощью конденсации. В периодической системе Менделеева находится под номером 30 и обозначается символом Zn.
+            Цинк — твердый металл, но становится пластичным при 100–150 °C. При температуре выше 210 °С может деформироваться. Температура плавления — очень низкая для металлов. Несмотря на это, цинк имеет хорошую электропроводность.
+            Цинк — активный металл. При комнатной температуре тускнеет и покрывается слоем оксида цинка.
+
+</item>
+    </string-array>
+    <array name="teg_image_array">
+        <item>@drawable/meddem</item>
+        <item>@drawable/svines</item>
+        <item>@drawable/svin</item>
+        <item>@drawable/olovo</item>
+        <item>@drawable/nikel</item>
+    </array>
+
+    <string-array name="leh">
+        <item>Алюминий </item>
+        <item>Титан </item>
+        <item>Магний </item>
+        <item>Литий </item>
+        <item>Натрий </item>
+    </string-array>
+
+    <string-array name="leh_content">
+        <item>Медь  dhgvhjdbvjf </item>
+        <item>Свинец dmnfbvjdfhbvdfvhjbdf </item>
+        <item>цинк fbvhjdfbvjvhj </item>
+        <item>Олово fbvhjdfvb </item>
+        <item>Никель ndfbvhdfhvjbf </item>
+    </string-array>
+
+    <array name="leh_image_array">
+        <item>@drawable/volfram</item>
+        <item>@drawable/titan</item>
+        <item>@drawable/mal</item>
+        <item>@drawable/olovo</item>
+        <item>@drawable/nikel</item>
+    </array>
+
+
+    <string-array name="blag">
+        <item>Золото </item>
+        <item>Серебро </item>
+        <item>Платина </item>
+        <item>Натрий </item>
+
+    </string-array>
+    <string-array name="blag_content">
+        <item>Медь  dhgvhjdbvjf </item>
+        <item>Свинец dmnfbvjdfhbvdfvhjbdf </item>
+        <item>цинк fbvhjdfbvjvhj </item>
+        <item>Медь  dhgvhjdbvjf </item>
+
+    </string-array>
+    <array name="blag_image_array">
+        <item>@drawable/zoloto</item>
+        <item>@drawable/serebro</item>
+        <item>@drawable/platina</item>
+        <item>@drawable/zoloto</item>
+
+    </array>
+
+    <string-array name="mal">
+        <item>Висмут </item>
+        <item>Мыщьяк </item>
+        <item>Сурьма </item>
+        <item>Ртуть </item>
+        <item>Кадмий </item>
+    </string-array>
+    <string-array name="mal_content">
+        <item>Медь  dhgvhjdbvjf </item>
+        <item>Свинец dmnfbvjdfhbvdfvhjbdf </item>
+        <item>цинк fbvhjdfbvjvhj </item>
+        <item>Олово fbvhjdfvb </item>
+        <item>Никекль ndfbvhdfhvjbf </item>
+    </string-array>
+    <array name="mal_image_array">
+        <item>@drawable/meddem</item>
+        <item>@drawable/svines</item>
+        <item>@drawable/svin</item>
+        <item>@drawable/olovo</item>
+        <item>@drawable/nikel</item>
+    </array>
+
+</resources>
